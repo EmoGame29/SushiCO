@@ -2,5 +2,5 @@
 	"ip":"sushicosmp.aternos.me",
 	"port": "35509",
 	"name": "SushiCO",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
